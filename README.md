@@ -35,7 +35,7 @@ Nah, sistem ini bantu kamu:
 ---
 
 # Clone
-git clone https://github.com/username/bin-tracker.git
+git clone https://github.com/adlanyk/binproduksi.git
 cd bin-tracker
 
 # Install
