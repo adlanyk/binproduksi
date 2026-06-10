@@ -1,0 +1,3 @@
+worker:
+  script: public/index.php
+  static-directory: public
